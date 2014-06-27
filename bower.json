@@ -1,0 +1,21 @@
+{
+  "name": "scout-template",
+  "version": "0.0.1",
+  "homepage": "https://github.com/patons02/scout-template",
+  "authors": [
+    "patons02 <stuart.john.paton@gmail.com>"
+  ],
+  "description": "template for scout group websites",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    
+  }
+}
