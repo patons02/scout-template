@@ -3,6 +3,8 @@ scout-template
 
 A template for the website of a Scout group - UK.
 
+Before any build you must do a bower install.
+
 When using grunt to build the tasks are:
 
 grunt    -------  does default build
